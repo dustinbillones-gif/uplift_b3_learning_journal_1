@@ -24,6 +24,16 @@
 ## Part 2: Applied Deep-Dive: Pick an Industry
 
 Choose one industry from today's "Real-World AI Applications" discussion (healthcare, finance, retail, education, manufacturing, customer service, agriculture, transportation, or government) and write a short case study — 150- 250 words — that answers:
+
 • What real problem does AI solve in this industry?
+
 • What data would a system need to solve it?
+
 • What could go wrong if the system is biased, wrong, or misused — and who would that affect?
+
+For my Real-World AI Application, I choose the construction industry since it's the industry that I have the most professional experience in. Based on past experience, I see AI as a tool that can be used to more accurately forecast budgets and schedules for construction projects, compared to traditional estimating and project scheduling methods. A system would need a company's data on budgets for previous projects, the size of those projects, their location (to consider logistics), the time it took to complete them in theory and actual, construction drawings, and historical data for inflation of construction materials. The idea is that when a construction firm has a new project, architect and engineers can just input the project size, location, and/or drawings, and the AI tool will be used to quickly generate a Gantt Chart for construction scheduling and an estimated Bill of Quantities. Unfortunately, if a system is biased, wrong, or misused a lot of stakeholders can be affected, from the clients to the involved professionals. If a system is fed with incorrect information, it might generate unrealistic construction schedules, increasing client expectations that might be too difficult to meet, thus affecting the relationship between the client and the company. Inaccurate Bill of Quantities can also be an issue. If a BOQ is too low it might lead to a construction company losing money and going bancrupt, while if a BOQ is too high, clients might hesitate to push through with the construction of the project.
+
+
+
+
+
